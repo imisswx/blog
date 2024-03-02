@@ -1,7 +1,7 @@
 ---
 ​---
 layout: article
-title: 大一上学期总结
+title: "大一上学期总结"
 mathjax: true
 ​---
 ---
